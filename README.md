@@ -56,6 +56,8 @@ If CUDA is properly set up, the above should print `True`
 
 If you receive a `NameError: name '_C' is not defined` error, refer to this [support ticket](https://github.com/IDEA-Research/GroundingDINO/issues/8#issuecomment-1541892708). 
 
+If you get any more trouble from Grounding DINO, its usually because of CUDA. Refer to their [documentation](https://github.com/IDEA-Research/GroundingDINO) for more support. The usual problem is from Grounding DINO
+
 ### 1. Change Directory into folder and activate virtual environment
 
 **For Windows Users:**
