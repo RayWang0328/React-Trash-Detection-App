@@ -90,7 +90,6 @@ cd GroundingDINO/
 ```
 ### 4. Install Grounding DINO dependencies:
 ```
-
 pip install -e .
 cd ..
 ```
@@ -123,4 +122,4 @@ To start the applcation, run:
 npm start dev
 ```
 
-The front end will only run if the backend is running. Everytime you need to run the app, you have to run `python app.py` in one terminal and `npm start dev` in another. Only when both sides are running will the program work.  
+The front end will only run if the backend is running. Everytime you need to run the app, you have to run `python app.py` in one terminal and `npm start dev` in another. Only when both ends are running will the program work.  
