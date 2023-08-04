@@ -27,7 +27,7 @@ https://github.com/RayWang0328/Colby-Trash-App/assets/19866871/f9c72a17-f664-4ac
 
 # Local Instillation 🛠️ 
 
-## Clone Repository onto a folder local machine
+## Clone Repository onto a folder on your local machine
 
 Open Terminal on your machine:
 ```
