@@ -1,5 +1,5 @@
 
-# Colby Trash Deletion App 🗑️ 
+# Colby Trash Deletion App (React) 🗑️ 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Marine debris presents substantial ecological challenge to the ecosystem of Maine's islands where volunteer groups annually undertake cleanup initiatives on islands. These cleanup efforts hindered by unpredictable challenges in trash volume and placement. In this web app, we created a pipeline that leverages aerial drones and machine learning to automatically detect, classify, and map marine trash.
@@ -13,7 +13,7 @@ This repisitory is largely the same as this [Trash-Detection-App](https://github
 * 🖐 Trash Classification: [OpenAI CLIP](https://github.com/openai/CLIP)
 * 🚮 Remove Duplicate Trash: [SIFT](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
 * 🗺️ Trash Visualization: [Folium Library](https://python-visualization.github.io/folium/)
-* 🌐 Web App: HTML, CSS, Javascript, Flask 
+* 🌐 Web App: React, Flask 
 
 For more information, refer to [Presentation](https://docs.google.com/presentation/d/1rI7PSf180x29OTPDD2gRQmT9HyvPoCecKxQgDgZoxtc/edit?usp=sharing). Paper is coming soon! 
 
