@@ -2,7 +2,7 @@
 # Colby Trash Deletion App (React) 🗑️ 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Marine debris presents substantial ecological challenge to the ecosystem of Maine's islands where volunteer groups annually undertake cleanup initiatives on islands. These cleanup efforts hindered by unpredictable challenges in trash volume and placement. In this web app, we created a pipeline that leverages aerial drones and machine learning to automatically detect, classify, and map marine trash.
+Marine debris presents a substantial ecological challenge to the ecosystem of Maine's islands where volunteer groups annually undertake cleanup initiatives on the islands. These cleanup efforts are hindered by unpredictable challenges in trash volume and placement. In this web app, we created a pipeline that leverages aerial drones and machine learning to automatically detect, classify, and map marine trash.
 
 This repisitory is largely the same as this [Trash-Detection-App](https://github.com/RayWang0328/Trash-Detection-App/), but the frontend is built with React.js instead of HTML/CSS. The project structure and installation is slightly different. 
 
