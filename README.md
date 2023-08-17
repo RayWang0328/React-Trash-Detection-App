@@ -17,6 +17,8 @@ This repisitory is largely the same as this [Trash-Detection-App](https://github
 
 For more information, refer to [Presentation](https://docs.google.com/presentation/d/1rI7PSf180x29OTPDD2gRQmT9HyvPoCecKxQgDgZoxtc/edit?usp=sharing). Paper is coming soon! 
 
+Also, refer to [Project Overview](https://docs.google.com/document/d/1pKqNnkJ2Ug14Txd4eiGN28GkzrZF8WBbO3bqn6TIYAY/edit?usp=sharing)
+
 # Paper 📄
 Still working on it ⚙️
 
